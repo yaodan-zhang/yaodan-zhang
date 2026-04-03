@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi, I'm Yaodan 👋
 
-<!--
-**yaodan-zhang/yaodan-zhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 UChicago MPCS '25 | CUHKSZ '23  
+💻 Backend / Systems / AI  
+🚀 Exploring High-Performance Computing & AI automation ideas
 
-Here are some ideas to get you started:
+### 🛠 Tech
+- Languages: Python, C++, SQL
+- Interests: Distributed systems, ML, trading systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔥 Projects
+- HFT simulation engine (C++)
+- Full-stack trading system (Flask + MySQL)
+- MIPS processor (Verilog)
+
+### 🌱 Currently
+Building and experimenting with AI-first tools
+
+### 📫 Reach me
+- LinkedIn: [https://www.linkedin.com/in/yaodan-z-a28b19248/]
