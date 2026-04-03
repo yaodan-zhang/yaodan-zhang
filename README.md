@@ -17,4 +17,4 @@
 Building and experimenting with AI-first tools
 
 ### 📫 Reach me
-- LinkedIn: [https://www.linkedin.com/in/yaodan-z-a28b19248/]
+- LinkedIn: https://www.linkedin.com/in/yaodan-z-a28b19248/
